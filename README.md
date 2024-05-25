@@ -7,8 +7,8 @@
 
 ## Yolo-v8 ball detection
 
-![Yolo-v8 ....loading](https://github.com/venkydesai/ball_catching_robot/blob/main/images/Robotic_arm_ball_3.jpeg)
+![Yolo-v8 ....loading](https://github.com/venkydesai/ball_catching_robot/blob/main/images/YOLO.png)
 
 ## HSV-method ball detection
 
-![HSV-method ....loading](https://github.com/venkydesai/ball_catching_robot/blob/main/images/Robotic_arm_ball_3.jpeg)
+![HSV-method ....loading](https://github.com/venkydesai/ball_catching_robot/blob/main/images/HSV.png)
